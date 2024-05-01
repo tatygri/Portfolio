@@ -19,7 +19,7 @@
 
 ---
 
-**Проект** Анализ убытков приложения ProcrastinatePRO+
+**Проект** Анализ убытков приложения ProcrastinatePRO+ (App ProcrastinatePRO+.csv)
 
 <img width="557" alt="image" src="https://github.com/tatygri/Portfolio/assets/164107738/b209f3f9-f187-42ba-9f64-d90e82f815e9">
 
