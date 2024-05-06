@@ -8,9 +8,8 @@
 
 ---
 
-**Проект** Исследование поведения пользователей сервиса аренды самокатов (Принятие решений в бизнесе.ipynb)
-<img width="555" alt="image" src="https://github.com/tatygri/Portfolio/assets/164107738/a27f769d-06ee-4fae-b0d0-4bd00c0bed5d">
-<img width="561" alt="image" src="https://github.com/tatygri/Portfolio/assets/164107738/6e736842-6c62-4dea-b0d3-acfd6d49b6a3">
+**Проект** Исследование поведения пользователей сервиса аренды самокатов ()
+<img width="568" alt="image" src="https://github.com/tatygri/Portfolio/assets/164107738/6c9b77a2-e2ec-4d9a-80aa-af2b37efda36">
 
 ---
 
@@ -27,6 +26,11 @@
 
 **Проект** Анализ сервиса вопросов и ответов по программированию
 <img width="543" alt="image" src="https://github.com/tatygri/Portfolio/assets/164107738/ec869ea8-952d-4ec9-bf37-985c6a78a7ce">
+
+---
+
+**Проект** Проверка гипотез по увеличению выручки в интернет-магазине. A/B тест (Принятие решений в бизнесе.ipynb)
+<img width="652" alt="image" src="https://github.com/tatygri/Portfolio/assets/164107738/ceb60456-02fe-45fa-8f84-ab7f9ebb01e6">
 
 ---
 
