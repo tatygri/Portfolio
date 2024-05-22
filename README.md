@@ -1,10 +1,9 @@
-# Проекты выполненные в рамках курса "Аналитика данных" (Yandex Practicum)
+# Data Analyst / Biologist
 <div style="border:solid green 2px; padding: 20px">
-  
+mailto: grifesta at gmail  
 ---
 
-**Проект** Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости  (Проект_1_анализ недвижимости СбП.ipynb)  
-<img width="704" alt="image" src="https://github.com/tatygri/Portfolio/assets/164107738/c17ee98e-a476-4483-99d5-23fd833cd7ed">
+**Summary** 
 
 ---
 
